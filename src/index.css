@@ -69,3 +69,9 @@ button:focus-visible {
 .red {
   color: red;
 }
+.title {
+  margin: 0;
+  font-weight: bold;
+  font-size: 96px;
+  text-decoration: underline;
+}

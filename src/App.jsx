@@ -9,7 +9,15 @@ import './App.css';
 // import { ConditionalRendering } from './5-Conditionale-rendering/ConditionalRendering';
 // import { Mapping } from './6-Mapping/Mapping';
 // import { Children } from './7-Children/Children';
-import { CompWithPropTypes } from './8-Proptypes !!!!!!!/Proptypes';
+// import { CompWithPropTypes } from './8-Proptypes !!!!!!!/Proptypes';
+// import { StyleProp } from './9-StylesProp/StyleProp';
+// import { Css } from './10-css/Css';
+// import { ClassComposition } from './11-ClassComposition/ClassComponents';
+// import { Clsx } from './12-clsx/Clsx';
+// import { Globals } from './13-Global Styles/Globals';
+// import { ReusingStyles } from './14-ReusingStyles/ReusingStyles';
+// import { Normalization } from './15-Normalization/Normalization';
+import { ReactIcons } from './16-ReactIcons/ReactIcons';
 
 const App = () => (
   <div>
@@ -20,7 +28,15 @@ const App = () => (
     {/* <ConditionalRendering /> */}
     {/* <Mapping /> */}
     {/* <Children /> */}
-    <CompWithPropTypes />
+    {/* <CompWithPropTypes /> */}
+    {/* <StyleProp /> */}
+    {/* <Css/> */}
+    {/* <ClassComposition /> */}
+    {/* <Clsx /> */}
+    {/* <Globals /> */}
+    {/* <ReusingStyles /> */}
+    {/* <Normalization /> */}
+    <ReactIcons />
   </div>
 );
 

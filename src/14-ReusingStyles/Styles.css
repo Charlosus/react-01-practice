@@ -1,0 +1,9 @@
+ .danger {
+    background-color: red;
+    color: 'white',
+  }
+
+  .info {
+    background-color: dodgerblue;
+    color: 'white',
+  }

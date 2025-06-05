@@ -1,0 +1,16 @@
+.title {
+  margin: 0;
+  font-weight: bold;
+  font-size: 96px;
+  text-decoration: underline;
+}
+
+.danger {
+  color: orangered;
+}
+.card {
+  border: 1px solid lime;
+  padding: 1rem;
+}
+
+

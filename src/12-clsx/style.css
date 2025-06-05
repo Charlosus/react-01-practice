@@ -1,0 +1,20 @@
+.title {
+  margin: 0;
+  font-weight: bold;
+  font-size: 96px;
+  text-decoration: underline;
+}
+
+.danger {
+  background-color: crimson;
+  color: white;
+}
+.card {
+  border: 1px solid lime;
+  padding: 1rem;
+}
+
+.inactive {
+  color: lightgrey;
+  text-decoration: line-through;
+}
